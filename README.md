@@ -1,2 +1,2 @@
-# meester-schous-verjaardag
-A small website to celebrate the birthday of Meester Schous
+# haarvaten-van-de samen-leving-leader-board
+A small website to fool around 
